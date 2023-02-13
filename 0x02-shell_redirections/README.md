@@ -1,0 +1,1 @@
+A scripts that prints
